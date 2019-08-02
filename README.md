@@ -1,11 +1,13 @@
 ## Show button if only authorize 
 
 **Process**
-* Check if profile's ID is matched with the visitor's ID 
-* if it matches -> show the edit button
-![authorize to edit]()
+1. Check if profile's ID is matched with the visitor's ID 
+2. if it matches -> show the edit button
+![](https://github.com/justmatt18/show-button-if-userauth/blob/master/authorize.png?raw=true)
 
-* not match -> hide button
-![not authorize to edit]()
+3. not match -> hide button
+![](https://github.com/justmatt18/show-button-if-userauth/blob/master/notauth.png?raw=true)
+
+
 
 *PS. note that visitor's id is manually set for demo purposes*
